@@ -1,3 +1,7 @@
+body{
+    background-color: rgb(0, 26, 255);
+}
+/* formatar body */
 h1 {
 font-size: 30px;
 text-align: center;
